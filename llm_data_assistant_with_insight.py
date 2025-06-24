@@ -1,5 +1,4 @@
 
-# streamlit_app_ai_insight.py
 import streamlit as st
 import pandas as pd
 import openai
